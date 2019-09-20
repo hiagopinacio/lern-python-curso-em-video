@@ -1,0 +1,1 @@
+from aula22Modulacao.ex112.utilidadesCeV import dado, moeda
